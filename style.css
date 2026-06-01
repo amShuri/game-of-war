@@ -59,6 +59,7 @@ button:disabled {
     background: #fff;
     border-radius: 50px;
     display: block;
+    font-size: 0.85rem;
     font-weight: 700;
     padding: .25em .5em;
     margin-bottom: 0.5em;
@@ -97,14 +98,14 @@ button:disabled {
 
     background: #fff;
     border-radius: 6px;
+    font-size: 0.95rem;
+    font-weight: 500;
     width: 300px;
     white-space: pre-line;
     padding: 1em 0;
 }
 
-.card-count,
-.round-result {
-    font-size: 0.85rem;
+.card-count {
 }
 
 .round-result:first-letter {
