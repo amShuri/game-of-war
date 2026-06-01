@@ -1,6 +1,6 @@
 # Game of War
 
-A simple implementation of the classic card game War. It uses localStorage to save the game's state on refresh. I used a mobile-first approach to achieve a responsive layout.
+A simple implementation of the classic card game War.
 
 ## Screenshots
 
