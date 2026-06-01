@@ -105,9 +105,6 @@ button:disabled {
     padding: 1em 0;
 }
 
-.card-count {
-}
-
 .round-result:first-letter {
     text-transform: capitalize;
 }
